@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Verbs/Form1.cs) (VB: [Form1.vb](./VB/Verbs/Form1.vb))
+* [Program.cs](./CS/Verbs/Program.cs) (VB: [Program.vb](./VB/Verbs/Program.vb))
+* [PropertyVerbsControl.cs](./CS/Verbs/PropertyVerbsControl.cs) (VB: [PropertyVerbsControl.vb](./VB/Verbs/PropertyVerbsControl.vb))
+<!-- default file list end -->
 # How to provide functionality for the DesignerVerbs (context links)
 
 
